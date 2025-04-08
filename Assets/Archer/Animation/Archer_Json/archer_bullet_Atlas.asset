@@ -12,8 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
   m_Name: archer_bullet_Atlas
   m_EditorClassIdentifier: 
-  textureLoadingMode: 0
-  onDemandTextureLoader: {fileID: 0}
   atlasFile: {fileID: 4900000, guid: 00f5e5120e9b03a469fbf0df638b31d4, type: 3}
   materials:
   - {fileID: 2100000, guid: 6f94c03dc7e9ae3409c9ea9971a9293b, type: 2}
